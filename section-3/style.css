@@ -1,0 +1,40 @@
+body {
+  background-color: red;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.list-wrapper {
+  text-align: center;
+}
+
+.list-style{
+  border-radius: 5px;
+  text-align: center;
+  display: inline-block;
+  width: 200px;
+  background-color: white;
+}
+
+.inside-list-wrapper li {
+  list-style-type: none;
+  color: red;
+}
+li {
+  list-style-type: none;
+}
+
+h2, p {
+  text-align: center;
+}
+
+span {
+  color: #fff;
+}
+
+.bottom-content {
+  color: white;
+}
